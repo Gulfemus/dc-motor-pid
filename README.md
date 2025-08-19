@@ -64,6 +64,10 @@ Adım cevabı grafiğinde PID metrikleri işaretlenmiştir:
 
 %2 bandı (kararlı duruma giriş toleransı)
 
+Aşağıda, DC motor PID denetleyicisinin adım cevabı görülmektedir:
+
+<img width="560" height="420" alt="step_response" src="https://github.com/user-attachments/assets/2ef8d23f-8b89-4d9d-868f-7d99c3dc2731" />
+
 --- 
 
 ## Kullanım Alanları
